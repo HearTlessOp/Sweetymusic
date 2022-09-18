@@ -36,13 +36,13 @@ async def fallen_ping():
 async def ping(_, message):
     hmm = await message.reply_photo(
         photo=config.PING_IMG,
-        caption="**» ᴩɪɴɢɪɴɢ ʙᴀʙʏ...**",
+        caption="**» ρɪɴɢɪɴɢ вαвιє..**",
     )
     hehe = await fallen_ping()
     start = datetime.now()
     end = datetime.now()
     resp = (end - start).microseconds / 1000
     await hmm.edit_text(
-        f"**» ᴩᴏɴɢ ʙᴀʙʏ !**\n`☁ {resp}`ᴍs\n\n<b><u>{BOT_NAME} sʏsᴛᴇᴍ sᴛᴀᴛs :</u></b>{hehe}",
+        f"**» ᴩᴏɴɢ вαвιє !**\n`☁ {resp}`ᴍs\n\n<b><u>{BOT_NAME} sʏsᴛᴇᴍ sᴛᴀᴛs :</u></b>{hehe}",
         reply_markup=ping_ig,
     )
