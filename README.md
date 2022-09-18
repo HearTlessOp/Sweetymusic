@@ -1,9 +1,9 @@
 <h2 align="center">
-    ─────「✨ ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ ✨」─────
+    ─────「✨ ѕωєєту ✘  ✨」─мυѕι¢────
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/3e81d08db1a144c6a2f6b.jpg">
+  <img src="https://telegra.ph/file/9a2e4f254574445bb8675.jpg">
 </p>
 
 <h3 align="center">
