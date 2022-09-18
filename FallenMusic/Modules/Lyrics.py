@@ -20,7 +20,7 @@ __HELP__ = """
 @app.on_message(filters.command(["lyrics", "lyric"]))
 async def lrsearch(_, message: Message):
     if len(message.command) < 2:
-        return await message.reply_text("**ᴇxᴀᴍᴩʟᴇ :**\n\n/lyrics [ᴩᴀʀsʜᴀᴡᴀɴ]")
+        return await message.reply_text("**ᴇxᴀᴍᴩʟᴇ :**\n\n/lyrics [ʟᴇʜᴇɴɢᴀ]")
     m = await message.reply_text("**» sᴇᴀʀᴄʜɪɴɢ...**")
     query = message.text.split(None, 1)[1]
     x = "OXaVabSRKQLqwpiYOn-E4Y7k3wj-TNdL5RfDPXlnXhCErbcqVvdCF-WnMR5TBctI"
