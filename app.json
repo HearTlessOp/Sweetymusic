@@ -1,6 +1,6 @@
 {
-  "name": "ғᴀʟʟᴇɴ ᴍᴜsɪᴄ",
-  "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
+  "name": "ѕωєєту мυѕι¢",
+  "logo": "https://telegra.ph/file/9a2e4f254574445bb8675.jpg",
   "description": "A Fast & Powerful VC Player bot to play songs in Telegram Video Chat written in Python with the help of Pyrogram & PyTg-Calls.",
   "keywords": ["music", "voicechat", "python", "telegram-bot", "pyrogram", "telegram", "fallen"],
   "repository": "https://github.com/AnonymousR1025/FallenMusic",
@@ -34,7 +34,7 @@
     "OWNER_ID": {
       "description": "Telegram id of the person who will known as owner of the bot.",
       "required": true,
-      "value": ""
+      "value": "ITZ_STAR_BOY"
     },
     "START_IMG": {
       "description": "Telegraph link of an image which you wanna set as start pic of the bot.",
@@ -54,12 +54,12 @@
     "SUPPORT_CHAT": {
       "description": "Support Group Link of your bot, Must start with https://t.me/",
       "required": false,
-      "value": "https://t.me/DevilsHeavenMF"
+      "value": "https://t.me/TFN_CHAT"
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link of your bot, Your link must start with https://t.me/",
       "required": false,
-      "value": "https://t.me/DevilsHeavenMF"
+      "value": "https://t.me/FURIOUS_EMPIRE"
     }
   },
   "buildpacks": [
