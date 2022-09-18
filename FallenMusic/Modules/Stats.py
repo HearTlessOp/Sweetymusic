@@ -41,7 +41,7 @@ async def gstats(_, message):
         photo="FallenMusic/Utilities/Stats.jpeg", caption=f"**» ᴩʟᴇᴀsᴇ ᴡᴀɪᴛ...\n\n• ɢᴇᴛᴛɪɴɢ {BOT_NAME} sᴛᴀᴛs...**"
     )
     smex = f"""
-**ᴄʜᴏᴏsᴇ ᴀɴ ᴏᴩᴛɪᴏɴ ғᴏʀ ɢᴇᴛᴛɪɴɢ {BOT_NAME} ɢᴇɴᴇʀᴀʟ sᴛᴀᴛs ᴏʀ ᴀssɪsᴛᴀɴᴛ sᴛᴀᴛs ᴏʀ ᴏᴠᴇʀᴀʟʟ sᴛᴀᴛs.**
+**ᴄʜᴏᴏsᴇ ᴀɴ ᴏᴩᴛɪᴏɴ ғᴏʀ ɢᴇᴛᴛɪɴɢ {BOT_NAME} ɢᴇɴᴇʀᴀʟ ѕᴛᴀᴛѕ ᴏʀ ᴀѕѕɪѕᴛᴀɴᴛ sᴛᴀᴛs ᴏʀ ᴏᴠᴇʀᴀʟʟ sᴛᴀᴛs.**
     """
     await hehe.edit_text(smex, reply_markup=stats_f)
     return
