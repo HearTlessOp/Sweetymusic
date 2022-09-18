@@ -74,7 +74,7 @@ async def fallen_boot():
         await app.start()
         await Ass.start()
         console.print("└ [green]Clients Booted Successfully!")
-        initial = await startup_msg("**» ʙᴏᴏᴛɪɴɢ ғᴀʟʟᴇɴ ᴍᴜsɪᴄ ʙᴏᴛ...**")
+        initial = await startup_msg("**» ʙᴏᴏᴛɪɴɢ sᴡᴇᴇᴛʏ ᴍᴜsɪᴄ ʙᴏᴛ...**")
         await asyncio.sleep(0.1)
         all_over = await startup_msg("**» ᴄʜᴇᴄᴋɪɴɢ ᴀɴᴅ ᴄʀᴇᴀᴛɪɴɢ ᴍɪssɪɴɢ ᴅɪʀᴇᴄᴛᴏʀɪᴇs...**")
         console.print(
